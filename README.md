@@ -12,10 +12,6 @@
 
 ---
 
-me = DataProfessional()
-me.say_hi()
----
-
 ## 🛠️ Tech Stack
 
 ### 📊 Data Analysis & Visualization
