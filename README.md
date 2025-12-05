@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Iván%20Blasco%20Verdú&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Data%20Scientist&descAlignY=55&descSize=20" />
 </div>
 
-<h3 align="center">📊 Transformando datos en insights accionables | 🤖 Construyendo modelos predictivos</h3>
+<h3 align="center">📊 Transforming data into actionable insights | 🤖 Building predictive models</h3>
 
 <p align="center">
   <a href="mailto:ivanblascoverdu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -12,39 +12,41 @@
 
 ---
 
-## 👨‍💻 Sobre Mí
+## 👨‍💻 About Me
 
+```python
 class DataProfessional:
-def init(self):
-self.name = "Iván Blasco Verdú"
-self.roles = ["Data Analyst", "Data Scientist"]
-self.location = "España 🇪🇸"
-self.current_focus = [
-"Análisis Exploratorio de Datos (EDA)",
-"Machine Learning & Deep Learning",
-"Visualización de Datos",
-"Desarrollo de APIs con FastAPI"
-]
-self.interests = [
-"Predictive Analytics",
-"Business Intelligence",
-"Natural Language Processing",
-"Web Development"
-]
+    def __init__(self):
+        self.name = "Iván Blasco Verdú"
+        self.roles = ["Data Analyst", "Data Scientist"]
+        self.location = "España 🇪🇸"
+        self.current_focus = [
+            "Análisis Exploratorio de Datos (EDA)",
+            "Machine Learning & Deep Learning",
+            "Visualización de Datos",
+            "Desarrollo de APIs con FastAPI"
+        ]
+        self.interests = [
+            "Predictive Analytics",
+            "Business Intelligence",
+            "Natural Language Processing",
+            "Web Development"
+        ]
 
-def daily_routine(self):
-    return {
-        "morning": "☕ Análisis de datos y visualizaciones",
-        "afternoon": "🤖 Desarrollo de modelos ML",
-        "evening": "💻 Side projects & Open Source",
-        "mindset": "📈 Continuous Learning"
-    }
+    def daily_routine(self):
+        return {
+            "morning": "☕ Data analysis & visualization",
+            "afternoon": "🤖 ML model development",
+            "evening": "💻 Side projects & Open Source",
+            "mindset": "📈 Continuous Learning"
+        }
 
-def say_hi(self):
-    print("¡Gracias por visitar mi perfil! Siempre abierto a colaborar en proyectos de datos 🚀")
+    def say_hi(self):
+        print("¡Gracias por visitar mi perfil! Siempre abierto a colaborar 🚀")
+
 me = DataProfessional()
 me.say_hi()
-
+```
 
 ---
 
@@ -105,26 +107,26 @@ me.say_hi()
 
 ---
 
-## 🎯 Áreas de Especialización
+## 🎯 Specialization Areas
 
 <table>
   <tr>
     <td align="center" width="50%">
       <h3>📊 Data Analysis</h3>
       <ul align="left">
-        <li>Análisis Exploratorio de Datos (EDA)</li>
-        <li>Limpieza y preparación de datos</li>
-        <li>Visualización de datos avanzada</li>
+        <li>Exploratory Data Analysis (EDA)</li>
+        <li>Data Cleaning & Preprocessing</li>
+        <li>Advanced Data Visualization</li>
         <li>Business Intelligence & Reporting</li>
-        <li>KPIs y métricas de negocio</li>
+        <li>KPI Design & Business Metrics</li>
       </ul>
     </td>
     <td align="center" width="50%">
       <h3>🤖 Data Science</h3>
       <ul align="left">
-        <li>Machine Learning (Supervised & Unsupervised)</li>
-        <li>Modelos predictivos y de clasificación</li>
-        <li>Deep Learning & Neural Networks</li>
+        <li>Supervised & Unsupervised ML</li>
+        <li>Predictive & Classification Models</li>
+        <li>Neural Networks & Deep Learning</li>
         <li>NLP & Computer Vision</li>
         <li>Feature Engineering</li>
       </ul>
@@ -134,7 +136,7 @@ me.say_hi()
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -145,58 +147,36 @@ me.say_hi()
 
 ---
 
-## 📊 Contribution Graph
+## 💼 Key Skills
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanblascoverdu&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ivanblascoverdu&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</div>
-
----
-
-## 💼 Habilidades Clave
+```python
 skills = {
-"data_analysis": ["Pandas", "NumPy", "SQL", "Excel", "Power BI"],
-"data_science": ["Scikit-learn", "TensorFlow", "PyTorch", "Keras"],
-"visualization": ["Matplotlib", "Seaborn", "Plotly", "Tableau"],
-"languages": ["Python", "SQL", "JavaScript", "TypeScript"],
-"web_dev": ["FastAPI", "Flask", "HTML/CSS", "REST APIs"],
-"tools": ["Git", "Docker", "Jupyter", "VS Code", "Anaconda"],
-"soft_skills": ["Problem Solving", "Communication", "Team Collaboration"]
+    "data_analysis": ["Pandas", "NumPy", "SQL", "Excel", "Power BI"],
+    "data_science": ["Scikit-learn", "TensorFlow", "PyTorch", "Keras"],
+    "visualization": ["Matplotlib", "Seaborn", "Plotly", "Tableau"],
+    "languages": ["Python", "SQL", "JavaScript", "TypeScript"],
+    "web_dev": ["FastAPI", "Flask", "HTML/CSS", "REST APIs"],
+    "tools": ["Git", "Docker", "Jupyter", "VS Code", "Anaconda"],
+    "soft_skills": ["Problem Solving", "Communication", "Team Collaboration"]
 }
-
-
----
-
-## 💡 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+```
 
 ---
 
 ## 🤝 Let's Connect!
 
 <p align="center">
-  Siempre estoy interesado en colaborar en proyectos de <strong>análisis de datos</strong>, <strong>machine learning</strong> y <strong>data science</strong>.
+  Always open to collaborating on <strong>Data Analysis</strong>, <strong>Machine Learning</strong>, and <strong>Data Science</strong> projects.
   <br/>
-  <strong>¿Tienes un proyecto interesante? ¡Hablemos!</strong>
+  <strong>Got something interesting in mind? Let's talk!</strong>
 </p>
 
 <div align="center">
-  
-  📧 **Email:** [ivanblascoverdu@gmail.com](mailto:ivanblascoverdu@gmail.com)  
-  💼 **LinkedIn:** [Iván Blasco Verdú](https://linkedin.com/in/ivan-blasco-verdu)  
-  🌐 **GitHub:** [@ivanblascoverdu](https://github.com/ivanblascoverdu)
-  
+
+📧 **Email:** [ivanblascoverdu@gmail.com](mailto:ivanblascoverdu@gmail.com)  
+💼 **LinkedIn:** [Iván Blasco Verdú](https://linkedin.com/in/ivan-blasco-verdu)  
+🌐 **GitHub:** [@ivanblascoverdu](https://github.com/ivanblascoverdu)
+
 </div>
 
 ---
