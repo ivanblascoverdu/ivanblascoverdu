@@ -12,42 +12,8 @@
 
 ---
 
-## 👨‍💻 About Me
-
-```python
-class DataProfessional:
-    def __init__(self):
-        self.name = "Iván Blasco Verdú"
-        self.roles = ["Data Analyst", "Data Scientist"]
-        self.location = "España 🇪🇸"
-        self.current_focus = [
-            "Análisis Exploratorio de Datos (EDA)",
-            "Machine Learning & Deep Learning",
-            "Visualización de Datos",
-            "Desarrollo de APIs con FastAPI"
-        ]
-        self.interests = [
-            "Predictive Analytics",
-            "Business Intelligence",
-            "Natural Language Processing",
-            "Web Development"
-        ]
-
-    def daily_routine(self):
-        return {
-            "morning": "☕ Data analysis & visualization",
-            "afternoon": "🤖 ML model development",
-            "evening": "💻 Side projects & Open Source",
-            "mindset": "📈 Continuous Learning"
-        }
-
-    def say_hi(self):
-        print("¡Gracias por visitar mi perfil! Siempre abierto a colaborar 🚀")
-
 me = DataProfessional()
 me.say_hi()
-```
-
 ---
 
 ## 🛠️ Tech Stack
@@ -91,19 +57,6 @@ me.say_hi()
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanblascoverdu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanblascoverdu&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanblascoverdu&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ---
 
