@@ -42,7 +42,6 @@ def daily_routine(self):
 
 def say_hi(self):
     print("¡Gracias por visitar mi perfil! Siempre abierto a colaborar en proyectos de datos 🚀")
-
 me = DataProfessional()
 me.say_hi()
 
@@ -93,6 +92,19 @@ me.say_hi()
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanblascoverdu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanblascoverdu&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanblascoverdu&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
 ## 🎯 Áreas de Especialización
 
 <table>
@@ -133,6 +145,21 @@ me.say_hi()
 
 ---
 
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanblascoverdu&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ivanblascoverdu&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</div>
+
+---
 
 ## 💼 Habilidades Clave
 skills = {
@@ -148,6 +175,13 @@ skills = {
 
 ---
 
+## 💡 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
 
 ## 🤝 Let's Connect!
 
@@ -159,7 +193,7 @@ skills = {
 
 <div align="center">
   
-  📧 **Email:** ivanblascoverdu@gmail.com  
+  📧 **Email:** [ivanblascoverdu@gmail.com](mailto:ivanblascoverdu@gmail.com)  
   💼 **LinkedIn:** [Iván Blasco Verdú](https://linkedin.com/in/ivan-blasco-verdu)  
   🌐 **GitHub:** [@ivanblascoverdu](https://github.com/ivanblascoverdu)
   
@@ -170,4 +204,3 @@ skills = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=120&section=footer" />
 </div>
-
