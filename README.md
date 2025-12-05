@@ -98,44 +98,73 @@
 
 ## 💼 Key Skills
 
-### 📊 Data Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+<table>
+<tr>
+<td>
 
-### 🤖 Data Science & ML
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+### 📊 Data Analysis  
+- Pandas  
+- NumPy  
+- SQL  
+- Excel  
+- Power BI  
 
-### 📈 Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+</td>
+<td>
 
-### 🌐 Web Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+### 🤖 Machine Learning  
+- Scikit-learn  
+- TensorFlow  
+- PyTorch  
+- Keras  
+- Feature Engineering  
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+</td>
+</tr>
 
-### 💬 Soft Skills
+<tr>
+<td>
+
+### 📈 Visualization  
+- Matplotlib  
+- Seaborn  
+- Plotly  
+- Tableau  
+
+</td>
+<td>
+
+### 🌐 Web Development  
+- FastAPI  
+- Flask  
+- HTML/CSS  
+- JavaScript / TypeScript  
+- REST APIs  
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🧰 Tools  
+- Git  
+- Docker  
+- Jupyter  
+- VS Code  
+- Anaconda  
+
+</td>
+<td>
+
+### 💬 Soft Skills  
 - Problem Solving  
 - Communication  
 - Team Collaboration  
+
+</td>
+</tr>
+</table>
 
 ## 🤝 Let's Connect!
 
